@@ -181,5 +181,5 @@ A private walkthrough can be provided during the interview process if needed.
 
 ## Contact
 
-- LinkedIn: [Your link of LinkedIn]
-- Email: [Your mail]
+- LinkedIn: (https://www.linkedin.com/in/henan-zhang-9199911a8/)
+- Email: henanzhng@gmail.com
